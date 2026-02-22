@@ -1,1 +1,1 @@
-Esta é uma página dedicada a organizar informações dos contratos e disponibilizá-las ao público. Projeto individual e voluntário. Seu propósito foi atendido e estou disponibilzando aqui no meu portfólio. 
+Link do projeto https://michlsilvala14.github.io/pagina-contratos-2022/
